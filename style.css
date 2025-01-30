@@ -1,0 +1,48 @@
+/* this is a syle sheet for baic css */
+
+/*
+p {
+    color: #ff0000;
+    background-color: #009966;
+  }
+*/
+
+  .specialp {
+    color: #0000ff;
+    background-color: lightgreen;
+  }
+
+  #specialid {
+    color: #060;
+    background-color: orange;
+  }
+
+  #divexample {
+    background-color: blue;
+  }
+
+  .spanstyle {
+    color: red
+  }
+
+  a {
+    color: #ff0000;
+    text-decoration: none;
+  }
+
+  a:link {
+    color: #00ff00;
+  }
+  
+  a:visited {
+    color: #0000ff;
+  }
+  
+  a:active {
+    color: #00ffff;
+  }
+  
+  a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+  }
