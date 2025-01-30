@@ -1,0 +1,41 @@
+a {
+    color: #ff0000;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: green;
+  }
+  
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+  }
+
+#SID {
+    Color: black;
+    background-color: rgb(135, 135, 135);
+  }
+
+.SC {
+    color: black;
+    background-color: rgb(209, 209, 209);
+  }
+
+.THC {
+    color: black;
+    background-color: white;
+    
+  }
+
+.SS {
+    color: rgb(179, 23, 23);
+}
+
+.SB {
+    background-color: rgb(255, 236, 210);
+}
+
+.DH {
+    color:rgb(179, 23, 23);
+}
