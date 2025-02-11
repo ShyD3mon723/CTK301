@@ -1,0 +1,75 @@
+main {
+    background-color: white;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+
+}
+
+div {
+    background-color: rgb(151, 158, 248)
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.bt{
+    margin: 10px;  
+    padding: 0px;
+    margin: 0;
+}
+
+.imgbox {
+    margin: 10px 0px;
+}
+
+h2{
+    color: blue;
+}
+
+.sp {
+    color: orange;
+}
+
+h3{
+    background-color: yellow;
+}
+
+.u{
+    text-decoration: none;
+    
+}
+
+h4{
+    color: yellow;
+    background-color: green;
+}
+
+.spr {
+    color:red;
+}
+
+h5{
+    color: red;
+}
+
+.divg{
+    background-color: lightgreen;
+}
+
+.itd{
+    color: blue;
+}
+
+.divy{
+    background-color: yellow;
+}
